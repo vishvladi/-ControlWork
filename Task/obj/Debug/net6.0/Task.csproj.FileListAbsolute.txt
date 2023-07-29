@@ -1,0 +1,15 @@
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/bin/Debug/net6.0/Task
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/bin/Debug/net6.0/Task.deps.json
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/bin/Debug/net6.0/Task.dll
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/bin/Debug/net6.0/Task.pdb
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/obj/Debug/net6.0/Task.dll
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/obj/Debug/net6.0/Task.pdb
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/macbookpro/Downloads/GB/Контрольная работа/Task/obj/Debug/net6.0/ref/Task.dll
